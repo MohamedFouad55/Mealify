@@ -907,5 +907,9 @@ footer .container .get li i{
 @media (max-width:767px){
     .container {
         width: 100%;
+        margin: 0 auto
     };
+    .container .content{
+        width: 100%;
+    }
 }
